@@ -33,7 +33,7 @@ const cards = [
     {
     id: "denji-figure",
     title: "Denji Figure (SHF)",
-    image: "images/denji.jpg",
+    image: "images/Denji.jpg",
     url: "https://www.amazon.com/TAMASHII-NATIONS-Chainsaw-Reissue-S-H-Figuarts/dp/B0GYCV787C/ref=sr_1_1?crid=1VRNEADI2CDHQ&keywords=denji+shf",
     series: "Chainsaw Man",
     category: "Figure",
@@ -53,7 +53,7 @@ const cards = [
   {
     id: "dabi-figure",
     title: "Dabi Figure (SHF)",
-    image: "images/dabi.jpg",
+    image: "images/Dabi.jpg",
     url: "https://us.amazon.com/TAMASHII-NATIONS-Academia-S-H-Figuarts-Action/dp/B0FDMFT7B1?th=1",
     series: "My Hero Academia",
     category: "Figure",
@@ -83,7 +83,7 @@ const cards = [
   {
     id: "Shoto Maximatic Figure",
     title: "Shoto Maximatic Figure (Banpresto)",
-    image: "images/shoto.jpg",
+    image: "images/Shoto.jpg",
     url: "https://us.amazon.com/Banpresto-Academia-Todoroki-Maximatic-Figure/dp/B0G11WXN3Y/ref=sr_1_1?crid=3V0X9Z2Q6Y4G&keywords=shoto+maximatic&qid=1698480000&sprefix=shoto+maximatic%2Caps%2C82&sr=8-1",
     series: "My Hero Academia",
     category: "Figure",
@@ -94,7 +94,7 @@ const cards = [
   {
     id: "Denji-figure",
     title: "Denji Figure (Banpresto)",
-    image: "images/denji-banpres.jpg",
+    image: "images/denji banpres.jpg",
     url: "https://www.amazon.com/Banpresto-Chainsaw-Bandai-Spirits-Vibration/dp/B0D4YRLG2W/ref=dp_fod_d_sccl_3/143-7520338-7568222?pd_rd_w=PFV5y&content-id=amzn1.sym.7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_p=7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_r=0BFC1685A5F81B90TKF3&pd_rd_wg=OGIvZ&pd_rd_r=a226d4cf-4ce3-4039-af11-283045a72a59&pd_rd_i=B0D4YRLG2W&th=1",
     series: "Chainsaw Man",
     category: "Figure",
@@ -105,7 +105,7 @@ const cards = [
   {
     id: "Chainsaw man-figure",
     title: "Chainsaw Man Figure (Shf)",
-    image: "images/chainsaw-man-sh.jpg",
+    image: "images/Chainsaw man sh.jpg",
     url: "https://www.amazohttps://www.amazon.com/TAMASHII-NATIONS-Chainsaw-S-H-Figuarts-Action/dp/B0F616VHBP/ref=sr_1_1?crid=1IP72OYQMB25Y&dib=eyJ2IjoiMSJ9.yPZWXUoG_FwpCMj_i7EF3WWa25RDOBvJ0l12cZeOj7ADjvV14P0vBcSKNiBChdfbCQHH2sMTzQYDWRfIl1jEEZP1hqmGHBCFBVEFNOJBP8YhM1HrJ-He37u5LdN2YijsTt7DeiXM-QnhxEjeHIteAiftvEFm5-hyyja0QTBWdmxCariIy7Y87OGgpxY6FjZr7HCPoubaJzDRwJ-NwTStU_9nGlsYz3MJX_ELkGdtL_FvopDmGkNDdFduG39BoSS0bu0K952QKwSOuY8I8m1ZOAIe9xuuKv2CIPEwwU289ZY.5PhOiVkqJ347TUbWt42X4ngvlFgTB1mn_-ARLCeL-t4&dib_tag=se&keywords=Shf%2Bchainsaw%2Bman&qid=1782754080&s=toys-and-games&sprefix=shf%2Bchainsaw%2Bman%2Ctoys-and-games%2C198&sr=1-1&th=1   n.com/Banpresto-Chainsaw-Bandai-Spirits-Vibration/dp/B0D4YRLG2W/ref=dp_fod_d_sccl_3/143-7520338-7568222?pd_rd_w=PFV5y&content-id=amzn1.sym.7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_p=7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_r=0BFC1685A5F81B90TKF3&pd_rd_wg=OGIvZ&pd_rd_r=a226d4cf-4ce3-4039-af11-283045a72a59&pd_rd_i=B0D4YRLG2W&th=1",
     series: "Chainsaw Man",
     category: "Figure",
@@ -117,7 +117,7 @@ const cards = [
   {
     id: "carnage-deku-figure",
     title: "Carnage Deku Figure",
-    image: "images/carnage-deku.jpg",
+    image: "images/carnage deku.jpg",
     url: "  https://www.amazon.com/TAMASHII-NATIONS-Academia-Overlay-S-H-Figuarts/dp/B0G2N89HR7/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_5/143-7520338-7568222?pd_rd_w=Xg4Fp&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=0HVV8TF0S7PZTFHV5A2F&pd_rd_wg=lJm1I&pd_rd_r=70912f65-959c-4b5d-a7b3-df7e4dac5954&pd_rd_i=B0G2N89HR7&psc=1    ",
     series: "My Hero Academia",
     category: "Figure",
@@ -151,7 +151,7 @@ const cards = [
     id: "jjk-boxset",
     idText: "jujutsu kaisen boxset",
     title: "Jujutsu Kaisen Manga Boxset",
-    image: "images/jjk.jpg",
+    image: "images/Jjk.jpg",
     url: "https://www.amazon.com/Jujutsu-Kaisen-Complete-Box-Set/dp/1974769356/ref=sr_1_1?crid=3V0X9Z2Q6Y4G&keywords=jujutsu+kaisen+box+set&qid=1698480000&sprefix=jujutsu+kaisen+box+set%2Caps%2C82&sr=8-1",
     series: "Jujutsu Kaisen",
     category: "Manga",
@@ -162,7 +162,7 @@ const cards = [
     id: "evangelion-manga",
     idText: "evangelion manga",
     title: "Evangelion Manga",
-    image: "images/evangelion-jpg.jpg",
+    image: "images/Evangelion,jpg.jpg",
     url: "https://www.amazon.com/Neon-Genesis-Evangelion-Manga-Set/dp/B09B4DWXLV/ref=sr_1_1?crid=165U59X7KFLNL",
     series: "Evangelion",
     category: "Manga",
@@ -172,7 +172,7 @@ const cards = [
   {
     id: "mob-psycho-vol-9",
     title: "Mob Psycho 100 Vol. 9",
-    image: "images/mob-9.jpg",
+    image: "images/Mob 9.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-9/dp/1632366517",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -182,7 +182,7 @@ const cards = [
   {
     id: "mob-psycho-vol-10",
     title: "Mob Psycho 100 Vol. 10",
-    image: "images/mob-10.jpg",
+    image: "images/Mob 10.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-10/dp/1632366525",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -192,7 +192,7 @@ const cards = [
   {
     id: "mob-psycho-vol-11",
     title: "Mob Psycho 100 Vol. 11",
-    image: "images/mob-11.jpg",
+    image: "images/Mob 11.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-11/dp/1682332447",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -202,7 +202,7 @@ const cards = [
   {
     id: "mob-psycho-vol-12",
     title: "Mob Psycho 100 Vol. 12",
-    image: "images/mob-12.jpg",
+    image: "images/Mob 12.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-12/dp/1974720420",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -212,7 +212,7 @@ const cards = [
   {
     id: "mob-psycho-vol-13",
     title: "Mob Psycho 100 Vol. 13",
-    image: "images/mob-13.jpg",
+    image: "images/Mob 13.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-13/dp/1682332463",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -222,7 +222,7 @@ const cards = [
   {
     id: "mob-psycho-vol-14",
     title: "Mob Psycho 100 Vol. 14",
-    image: "images/mob-14.jpg",
+    image: "images/Mob 14.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-14/dp/1682332471",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -232,7 +232,7 @@ const cards = [
   {
     id: "mob-psycho-vol-15",
     title: "Mob Psycho 100 Vol. 15",
-    image: "images/mob-15.jpg",
+    image: "images/Mob 15.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-15/dp/168233248X",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -242,7 +242,7 @@ const cards = [
   {
     id: "mob-psycho-vol-16",
     title: "Mob Psycho 100 Vol. 16",
-    image: "images/mob-16.jpg",
+    image: "images/Mob 16.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-16/dp/1682332498",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -253,7 +253,7 @@ const cards = [
     id: "my-hero-all-justice-game",
     idText: "my hero all justice game",
     title: "My Hero All Justice Game",
-    image: "images/all-justice.jpg",
+    image: "images/All justice.jpg",
     url: "https://store.steampowered.com/app/2362050/MY_HERO_ACADEMIA_Alls_Justice/",
     series: "My Hero Academia",
     category: "Game",
@@ -275,7 +275,7 @@ const cards = [
     id: "Devil May Cry 3",
     idText: "devil may cry 3",
     title: "Devil May Cry 3",
-    image: "images/devil_may_cry_3.jpg",
+    image: "images/Devil_May_Cry_3.jpg",
     url: "https://steamcommunity.com/app/65500/",
     series: "Devil May Cry",
     category: "Game",
@@ -295,7 +295,7 @@ const cards = [
   {
     id: "gildan-black-tshirts",
     title: "Gildan Black T-Shirt Multipack",
-    image: "images/blk-tshirk.jpg",
+    image: "images/blk tshirk.jpg",
     url: "https://www.amazon.com/Gildan-T-Shirt-Multipack-Black-Large/dp/B07JDFPQTC/ref=sr_1_5?crid=172Q07GACRC6L&dib=eyJ2IjoiMSJ9.hzNKccWrA4A9fLNy0pVPJhbV7doTJwDXyw7F5tznnwBau8R8YA9q1AYm1s4GeESRVTA1W_YP1hUyhvDNpIViRGNiEAmnCL4EylQUZ_QEk4GAL8rK5hR75po2-NjKNruxv2-Yco5zdOlj4r7xC9ricnRykwTsC7cPeeKyMT1R1hk4RcAYoZVqP7BmZbi3W6i0wzGn7EZiU7QZOp9aZKWL577MhCCZTZ6-w59h724V9nPsLyTFVyavaBxCXpPwloIJ62UAIf2F7L99cMkVjeX6aP3cI1dKMmhjgq7jSbRRsiU.N8Fr2N8ASizmFzHKdXuRe_mRRL9PfTmy84XYKcmupRg&dib_tag=se&keywords=plain%2Bblack%2Btshirt%2Bmen&qid=1782757500&sprefix=plain%2Bb%2Caps%2C218&sr=8-5&th=1&psc=1",
     series: "Gildan",
     category: "Clothes",
@@ -305,7 +305,7 @@ const cards = [
   {
     id: "adidas-black-track-pants",
     title: "adidas Black Track Pants",
-    image: "images/image.png",
+    image: "images/adidas black track pants.jpg",
     url: "https://www.amazon.com/adidas-3-Stripes-Tricot-Regular-Sportswear/dp/B0D22RGQQS/ref=sr_1_5?crid=69SZH24M2201&dib=eyJ2IjoiMSJ9.4MZfIutoonGVN1JEgb2vFKGGR_ACqHtEeZejxKTk7cR9316hYHIiFbTdqEAhdkzNRQGQl_GwVRDroKEh9jFuO7aLzeZxu1Ps_0sa0GFpkCtC-irhjbykAokbKb4hzQQTOyhLlnguK2kH677-XNXrrKcuEJVc7Ue6WurZfKhPatHHdy-bTF-ueJtIwPyl975v9LXSa5r1q__j-R0vfiRwyLJ19pPSbf_sGvxC3HSEeGKo4xP5hCLfgIyo_I43NR8tUNSwJv2eVXNnEE54yDU_rA6FhSF3XLJxPoZvERD5Vj4.0zb3Nh00SkhfsVDg8tJ92yxDLtgFca1mEtkmbPhkpvo&dib_tag=se&keywords=track%2Bpants&qid=1782757525&sprefix=track%2Bpant%2Caps%2C243&sr=8-5&th=1&psc=1",
     series: "adidas",
     category: "Clothes",
@@ -315,7 +315,7 @@ const cards = [
   {
     id: "school-backpack",
     title: "School Backpack",
-    image: "images/skl-bag.jpg",
+    image: "images/skl bag.jpg",
     url: "https://www.amazon.com/School-Backpack-Student-Travel-Black/dp/B07V4R4Z77/ref=sr_1_16?crid=1J84O1D9FFOHJ&dib=eyJ2IjoiMSJ9.r2oZplauw0M-BQvXQRQtc2enJ-gTlT-CqANG3X_8Z6HR5jD72YE03xl2apqGVy-eRf-UnbR3jYGTo6xr1uAP-akv-GpL4FJJc1v8qWkks1YjcnE4itDFhxfH9c9cYkv_xaSAnld7112iCNlgxyV1eqIYnEaIaAWGFpoTXPAqgSDTlIv0vad1Dj48guHY3JzOLL80LN5xdQYwk9XWMUQG1vhUoWiUBFsUsZeAXdtmrls.BrJfDeyWzUEbJwt2jJeC2MWBFC9UHsQTANZ6PBP4ya4&dib_tag=se&keywords=black%2Bbackpack&qid=1782757552&sprefix=black%2Bbackpa%2Caps%2C231&sr=8-16&th=1",
     series: "School Supplies",
     category: "Clothes",
@@ -325,7 +325,7 @@ const cards = [
   {
     id: "kootek-laptop-cooling-pad",
     title: "Kootek Laptop Cooling Pad",
-    image: "images/image.png",
+    image: "images/kootek laptop cooling pad.jpg",
     url: "https://www.amazon.com/Kootek-Laptop-Cooling-Cooler-Adjustable/dp/B01469DJLM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.e_fBVVbcVA_6EJKMsFz3DN61h9HGvf_qY8FsL_Twz8bS4UOYHlrXr0D81HLuC_d4vmVqkdBWNaatV2g3ZsjpoQeQQxvQXdufsSCkwNR7t6ZMXzem8FOP_SCrOD6qQoGdX_yCePfBIM7VcrSsy6fC8AQ-VBp-BGUJjKdo9X-AxRfXTs7zq2ttgSvFm_bdss8V3KPthsOarUPRXc5-hSHX6-jXOs8uCDFR_VtUIAbZb_U.UbT80aW4JqoEKkC-gwxRj-7mnqaUx34wpqrbNrG3jHo&dib_tag=se&keywords=laptop%2Bupgrades&qid=1782758225&sr=8-3&th=1",
     series: "Kootek",
     category: "Other",
@@ -335,7 +335,7 @@ const cards = [
   {
     id: "evangelion-laptop-stickers",
     title: "Evangelion Laptop Sticker Set",
-    image: "images/angel-dev.jpg",
+    image: "images/evangelion laptop sticker set.jpg",
     url: "https://www.amazon.com/Evangelion-Sticker-Character-Decals-Waterproof/dp/B0DSVG6VGQ/ref=sr_1_1?crid=30DKBF2XAI0WA&dib=eyJ2IjoiMSJ9.ThH8weUiUH_Zy_efywz3DDz9lpMfLoeJvPk198MXzPBPE_ydW6M5GLtrsXHj3FD2CxrXJUiaTzSQtM3xQBmIJfU7Mv9kZ6eeTqjjzNmrZlJZ-8dTp1-PLgbGtn1WgnR8vfdnQ8zl85PyePXg0Q8o12-mtCeU5iZ9JXZBWiUx9JIqIR-eZ5H7yl5S-z17Etpm3KVmobDW3bgZscVHygzh5CV_8U5NtTZ6Gm3cKuf8OYYbRes9b0T2_qqqEXorzMRRuhKS2eitUAwlb71JZyjMBi6COQI-P8qv6ud53rGApRc.J1HXlic8aVkdEgxUlqiI5NxET7TqgEPHD84PWLU-nJI&dib_tag=se&keywords=laptop+stickers+evangelion&qid=1782759777&sprefix=laptop+stickers+evangelio%2Caps%2C213&sr=8-1",
     series: "Evangelion",
     category: "Other",
@@ -345,7 +345,7 @@ const cards = [
   {
     id: "demon-slayer-manga-collection",
     title: "Demon Slayer Manga Collection",
-    image: "images/demon-slayer-mamga.jpg",
+    image: "images/demon slayer mamga.jpg",
     url: "https://www.amazon.com/Demon-Slayer-Kimetsu-Collection-Koyoharu/dp/B09KQJNLP2/ref=sr_1_40?crid=1327JKAPT4BG2&dib=eyJ2IjoiMSJ9.NsYpl3elQ9uHnN6oS07BVg1idSmuw4lptd3Y4hmSwvnF5JCeIDAaYuEPmDTpxntr6nS4GYSHqlR_Dm35OU8-Q3-CTng1Kz9cxs2EKBjUEiHpUC14fTR4KNc2b-OD-Nn4GOJbZ49Mu9hm8Ske9UDR_KXBDxaIsnTAlO-IF_z3xhUWxWC_aLzDS9GOYr1KgDzyheiS_mJCPDpOWFuu7pA-95OVFAic1YiDthyYcddkPwU3la8agxLzMuDoOmwwUXskHMrf_CfpZCi8m5jRs-Uvt6ZW8V1k_KEy2gf5bhB-pWk.g7FhKgYCchM30DS85BafRjaaoXnxGMfYesRBJznFjtI&dib_tag=se&keywords=demon+slayer+manga&qid=1782761927&sprefix=demon+%2Caps%2C221&sr=8-40",
     series: "Demon Slayer",
     category: "Manga",
@@ -488,6 +488,93 @@ cards.forEach(function (card) {
   addCardToCategory(card);
   addHighPriorityCard(card);
 });
+ const fixedImagePaths = {
+  "shigaraki-figure": "Images/shhigaraki.jpg",
+  "bakugo-figure": "Images/baku.jpg",
+  "denji-figure": "Images/Denji.jpg",
+  "gojo-figure": "Images/gojo.jpg",
+  "dabi-figure": "Images/Dabi.jpg",
+  "toga-figure": "Images/toga.jpg",
+  "yuji-figure": "Images/yuji.jpg",
+
+  "Shoto Maximatic Figure": "Images/Shoto.jpg",
+  "Denji-figure": "Images/denji banpres.jpg",
+  "Chainsaw man-figure": "Images/Chainsaw man sh.jpg",
+  "carnage-deku-figure": "Images/Carnage Deku.jpg",
+
+  "Funko Pop Mob": "Images/mobb.jpg",
+  "Funko Pop Reigen": "Images/reige.jpg",
+
+  "jjk-boxset": "Images/Jjk.jpg",
+  "evangelion-manga": "Images/Evangelion,jpg.jpg",
+
+  "mob-psycho-vol-9": "Images/Mob 9.jpg",
+  "mob-psycho-vol-10": "Images/Mob 10.jpg",
+  "mob-psycho-vol-11": "Images/Mob 11.jpg",
+  "mob-psycho-vol-12": "Images/Mob 12.jpg",
+  "mob-psycho-vol-13": "Images/Mob 13.jpg",
+  "mob-psycho-vol-14": "Images/Mob 14.jpg",
+  "mob-psycho-vol-15": "Images/Mob 15.jpg",
+  "mob-psycho-vol-16": "Images/Mob 16.jpg",
+
+  "my-hero-all-justice-game": "Images/All justice.jpg",
+  "Robux": "Images/robux.jpg",
+  "Devil May Cry 3": "Images/Devil_May_Cry_3.jpg",
+
+  "gildan-black-undershirts": "Images/balk.jpg",
+  "gildan-black-tshirts": "Images/black-tshirts.jpg",
+  "school-backpack": "Images/skl bag.jpg",
+
+  "kootek-laptop-cooling-pad": "Images/image.png",
+  "evangelion-laptop-stickers": "Images/angel dev.jpg",
+  "demon-slayer-manga-collection": "Images/demon slayer mamga.jpg",
+};
+
+const fixedImagePaths = {
+  "shigaraki-figure": "Images/shhigaraki.jpg",
+  "bakugo-figure": "Images/baku.jpg",
+  "denji-figure": "Images/Denji.jpg",
+  "gojo-figure": "Images/gojo.jpg",
+  "dabi-figure": "Images/Dabi.jpg",
+  "toga-figure": "Images/toga.jpg",
+  "yuji-figure": "Images/yuji.jpg",
+  "Shoto Maximatic Figure": "Images/Shoto.jpg",
+  "Denji-figure": "Images/denji banpres.jpg",
+  "Chainsaw man-figure": "Images/Chainsaw man sh.jpg",
+  "carnage-deku-figure": "Images/Carnage Deku.jpg",
+  "Funko Pop Mob": "Images/mobb.jpg",
+  "Funko Pop Reigen": "Images/reige.jpg",
+  "jjk-boxset": "Images/Jjk.jpg",
+  "evangelion-manga": "Images/Evangelion,jpg.jpg",
+  "mob-psycho-vol-9": "Images/Mob 9.jpg",
+  "mob-psycho-vol-10": "Images/Mob 10.jpg",
+  "mob-psycho-vol-11": "Images/Mob 11.jpg",
+  "mob-psycho-vol-12": "Images/Mob 12.jpg",
+  "mob-psycho-vol-13": "Images/Mob 13.jpg",
+  "mob-psycho-vol-14": "Images/Mob 14.jpg",
+  "mob-psycho-vol-15": "Images/Mob 15.jpg",
+  "mob-psycho-vol-16": "Images/Mob 16.jpg",
+  "my-hero-all-justice-game": "Images/All justice.jpg",
+  "Robux": "Images/robux.jpg",
+  "Devil May Cry 3": "Images/Devil_May_Cry_3.jpg",
+  "gildan-black-undershirts": "Images/balk.jpg",
+  "gildan-black-tshirts": "Images/black-tshirts.jpg",
+  "school-backpack": "Images/skl bag.jpg",
+  "kootek-laptop-cooling-pad": "Images/image.png",
+  "evangelion-laptop-stickers": "Images/angel dev.jpg",
+  "demon-slayer-manga-collection": "Images/demon slayer mamga.jpg",
+};
+
+cards.forEach(function (card) {
+  if (fixedImagePaths[card.id]) {
+    card.image = fixedImagePaths[card.id];
+  }
+});
+
+cards.forEach(function (card) {
+  addCardToCategory(card);
+  addHighPriorityCard(card);
+});
 const picklesInput = document.getElementById("pickles-input");
 const picklesBtn = document.getElementById("pickles-btn");
 const picklesChat = document.querySelector(".pickles-chat");
@@ -596,4 +683,3 @@ picklesBtn.addEventListener("click", function () {
 
   picklesInput.value = "";
 });
-
