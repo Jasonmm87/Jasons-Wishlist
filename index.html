@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Wishlist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header id="top">
+    <h1> Wishlist Website </h1>
+    <p> all the anime, manga, figures, games, and items I want.</p>
+  </header>
+
+  <main>
+    <nav class="category-jump">
+    <a href="#high-priority">High Priority</a>
+    <a href="#manga">Manga</a>
+    <a href="#figures">Figures</a>
+    <a href="#games">Games</a>
+    <a href="#clothes">Clothes</a>
+    <a href="#other">Other</a>
+</nav>
+       <section>
+<h2> Pick something for ME here!!!:D</h2>
+       <button>View Wishlist</button>
+       </section>
+<section class="pickles-box">
+  <h2>Pickles</h2>
+  <p class="pickles-subtext">
+    Ask me stuff like <span>“manga only”</span>, <span>“under 50”</span>, <span>“high priority”</span>, or <span>“show me Chainsaw Man stuff”</span>.
+  </p>
+
+  <div class="pickles-chat">
+    <div class="pickles-message bot">
+      Hello! Ask me what kind of gift you are looking for, and I’ll help you find something from Jason’s wishlist.
+    </div>
+  </div>
+
+  <div class="pickles-input-row">
+    <input type="text" id="pickles-input" placeholder="Ask Pickles...">
+    <button id="pickles-btn">Ask</button>
+  </div>
+</section>
+<section class="category-section" id="high-priority">
+    <h2>High Priority</h2>
+    <p>Top-priority wishlist items to check out first.</p>
+
+    <div class="wishlist-grid" data-category="HighPriority"></div>
+    <div class="section-polish">
+      <a href="#top">Back to Top</a>
+      <a href="#manga">Next Section</a>
+    </div>
+</section>
+<section class="category-section" id="manga">
+    <h2>Manga</h2>
+    <p>Manga volumes and box sets I want.</p>
+
+    <div class="wishlist-grid" data-category="Manga"></div>
+    <div class="section-polish">
+      <a href="#top">Back to Top</a>
+      <a href="#figures">Next Section</a>
+    </div>
+</section>
+
+<section class="category-section" id="clothes">
+    <h2>Clothes</h2>
+    <p>Clothing items that I find cool.</p>
+
+    <div class="wishlist-grid" data-category="Clothes"></div>
+    <div class="section-polish">
+      <a href="#top">Back to Top</a>
+      <a href="#other">Next Section</a>
+    </div>
+</section>
+
+<section class="category-section" id="games">
+    <h2>Games</h2>
+    <p>Games that look fun.</p>
+
+    <div class="wishlist-grid" data-category="Game"></div>
+    <div class="section-polish">
+      <a href="#top">Back to Top</a>
+      <a href="#clothes">Next Section</a>
+    </div>
+</section>
+
+<section class="category-section" id="figures">
+    <h2>Figures</h2>
+    <p>Anime figures that would look cool on my shelf.</p>
+
+    <div class="wishlist-grid" data-category="Figure"></div>
+    <div class="section-polish">
+      <a href="#top">Back to Top</a>
+      <a href="#games">Next Section</a>
+    </div>
+</section>
+
+<section class="category-section" id="other">
+    <h2>Other</h2>
+    <p>Random stuff, tech, and extra items I find cool.</p>
+
+    <div class="wishlist-grid" data-category="Other"></div>
+    <div class="section-polish">
+      <a href="#top">Back to Top</a>
+    </div>
+</section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
