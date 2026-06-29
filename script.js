@@ -1,4 +1,4 @@
-﻿const categoryGrids = {
+const categoryGrids = {
   HighPriority: document.querySelector("#high-priority .wishlist-grid"),
   Figure: document.querySelector("#figures .wishlist-grid"),
   Manga: document.querySelector("#manga .wishlist-grid"),
@@ -12,7 +12,7 @@ const cards = [
     {
     id: "shigaraki-figure",
     title: "Shigaraki Figure (SHF)",
-    image: "images/SHhigaraki.jpg",
+    image: "Images/SHhigaraki.jpg",
     url: "https://www.amazon.com/TAMASHII-NATIONS-Academia-Shigaraki-S-H-Figuarts/dp/B0FT2DNKC3/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_1/143-7520338-7568222?pd_rd_w=ktD4i&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=5MY8KTPW1ND47JZQP89Z&pd_rd_wg=WGOXQ&pd_rd_r=18cd365e-3be2-4e21-87b2-82762c8efd47&pd_rd_i=B0FT2DNKC3&th=1 ",
     series: "My Hero Academia",
     category: "Figure",
@@ -22,7 +22,7 @@ const cards = [
    {
     id: "bakugo-figure",
     title: "Bakugo Figure (SHF)",
-    image: "images/Baku.jpg",
+    image: "Images/Baku.jpg",
     url: "https://www.amhttps://www.amazon.com/TAMASHII-NATIONS-Academia-Beginning-S-H-Figuarts/dp/B0FXJ2WJS5/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_1/143-7520338-7568222?pd_rd_w=IKdlB&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=DJ047XMAW6XQCP0PFWNB&pd_rd_wg=eEjZk&pd_rd_r=d2942e1c-936e-487e-9150-130a6c3c03ea&pd_rd_i=B0FXJ2WJS5&psc=1  azon.com/TAMASHII-NATIONS-Bakugo-S-H-Figuarts/dp/B0GYCV787C/ref=sr_1_1?crid=1VRNEADI2CDHQ&keywords=bakugo+shf",
     series: "My Hero Academia",
     category: "Figure",
@@ -33,7 +33,7 @@ const cards = [
     {
     id: "denji-figure",
     title: "Denji Figure (SHF)",
-    image: "images/Denji.jpg",
+    image: "Images/Denji.jpg",
     url: "https://www.amazon.com/TAMASHII-NATIONS-Chainsaw-Reissue-S-H-Figuarts/dp/B0GYCV787C/ref=sr_1_1?crid=1VRNEADI2CDHQ&keywords=denji+shf",
     series: "Chainsaw Man",
     category: "Figure",
@@ -43,7 +43,7 @@ const cards = [
   {
     id: "gojo-figure",
     title: "gojo Figure (SHF)",
-    image: "images/gojo.jpg",
+    image: "Images/gojo.jpg",
     url: "https://www.amazon.com/TAMASHII-NATIONS-Jujutsu-Reissue-S-H-Figuarts/dp/B0H38Q3LHD/ref=sr_1_7?dib=eyJ2IjoiMSJ9.A2OlNgSvUdPB8pgsbw0RePAsyYUi_o0gPBtN36ouueBxtQO8RpooLVi2AdCnu2_TjCbQveOt_LfjjSxEQ7aLlbm7qrV9zF2HgVh5F-4o0dYMfi5jNo5ZFb4JF4QrrP2ezD5rsiDwfQ5IYanvquifULNkNsK-EaOjslGhX_EyEM_oBjVP1hAfTVdUnYgZf1pt8aLLpLDH6PMmWMOrC_GWpXERS3xuNMtSCRsIZ75GfnHO6xw0dvCqtXqxPqEn-Xxo1MXhNIt8ZRgqIDZhdZUmmk4X1Semizzud7seColILFw.FpLM7ba115f0y606CdM1hM61GYowbJ3NndPb3ull7n8&dib_tag=se&keywords=jjk%2Bfigures&qid=1782751506&sr=8-7&th=1",
     series: "Jujutsu Kaisen",
     category: "Figure",
@@ -53,7 +53,7 @@ const cards = [
   {
     id: "dabi-figure",
     title: "Dabi Figure (SHF)",
-    image: "images/dabi.jpg",
+    image: "Images/dabi.jpg",
     url: "https://us.amazon.com/TAMASHII-NATIONS-Academia-S-H-Figuarts-Action/dp/B0FDMFT7B1?th=1",
     series: "My Hero Academia",
     category: "Figure",
@@ -63,7 +63,7 @@ const cards = [
   {
     id: "toga-figure",
     title: "Toga Figure (SHF)",
-    image: "images/Toga.jpg",
+    image: "Images/Toga.jpg",
     url: "https://us.amazon.com/TAMASHII-NATIONS-Academia-S-H-Figuarts-Action/dp/B0FRTXTRVN?th=1",
     series: "My Hero Academia",
     category: "Figure",
@@ -73,7 +73,7 @@ const cards = [
   {
     id: "yuji-figure",
     title: "Yuji Figure (SHF)",
-    image: "images/Yuji.jpg",
+    image: "Images/Yuji.jpg",
     url: "https://www.amazon.com/TAMASHII-NATIONS-Jujutsu-Potential-S-H-Figuarts/dp/B0H38PWZKR?ref_=ast_sto_dp&th=1",
     series: "Jujutsu Kaisen",
     category: "Figure",
@@ -83,7 +83,7 @@ const cards = [
   {
     id: "Shoto Maximatic Figure",
     title: "Shoto Maximatic Figure (Banpresto)",
-    image: "images/Shoto.jpg",
+    image: "Images/Shoto.jpg",
     url: "https://us.amazon.com/Banpresto-Academia-Todoroki-Maximatic-Figure/dp/B0G11WXN3Y/ref=sr_1_1?crid=3V0X9Z2Q6Y4G&keywords=shoto+maximatic&qid=1698480000&sprefix=shoto+maximatic%2Caps%2C82&sr=8-1",
     series: "My Hero Academia",
     category: "Figure",
@@ -94,7 +94,7 @@ const cards = [
   {
     id: "Denji-figure",
     title: "Denji Figure (Banpresto)",
-    image: "images/denji banpres.jpg",
+    image: "Images/denji banpres.jpg",
     url: "https://www.amazon.com/Banpresto-Chainsaw-Bandai-Spirits-Vibration/dp/B0D4YRLG2W/ref=dp_fod_d_sccl_3/143-7520338-7568222?pd_rd_w=PFV5y&content-id=amzn1.sym.7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_p=7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_r=0BFC1685A5F81B90TKF3&pd_rd_wg=OGIvZ&pd_rd_r=a226d4cf-4ce3-4039-af11-283045a72a59&pd_rd_i=B0D4YRLG2W&th=1",
     series: "Chainsaw Man",
     category: "Figure",
@@ -105,7 +105,7 @@ const cards = [
   {
     id: "Chainsaw man-figure",
     title: "Chainsaw Man Figure (Shf)",
-    image: "images/Chainsaw man sh.jpg",
+    image: "Images/Chainsaw man sh.jpg",
     url: "https://www.amazohttps://www.amazon.com/TAMASHII-NATIONS-Chainsaw-S-H-Figuarts-Action/dp/B0F616VHBP/ref=sr_1_1?crid=1IP72OYQMB25Y&dib=eyJ2IjoiMSJ9.yPZWXUoG_FwpCMj_i7EF3WWa25RDOBvJ0l12cZeOj7ADjvV14P0vBcSKNiBChdfbCQHH2sMTzQYDWRfIl1jEEZP1hqmGHBCFBVEFNOJBP8YhM1HrJ-He37u5LdN2YijsTt7DeiXM-QnhxEjeHIteAiftvEFm5-hyyja0QTBWdmxCariIy7Y87OGgpxY6FjZr7HCPoubaJzDRwJ-NwTStU_9nGlsYz3MJX_ELkGdtL_FvopDmGkNDdFduG39BoSS0bu0K952QKwSOuY8I8m1ZOAIe9xuuKv2CIPEwwU289ZY.5PhOiVkqJ347TUbWt42X4ngvlFgTB1mn_-ARLCeL-t4&dib_tag=se&keywords=Shf%2Bchainsaw%2Bman&qid=1782754080&s=toys-and-games&sprefix=shf%2Bchainsaw%2Bman%2Ctoys-and-games%2C198&sr=1-1&th=1   n.com/Banpresto-Chainsaw-Bandai-Spirits-Vibration/dp/B0D4YRLG2W/ref=dp_fod_d_sccl_3/143-7520338-7568222?pd_rd_w=PFV5y&content-id=amzn1.sym.7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_p=7f84da73-eb85-4a58-91da-5292f6af7ef2&pf_rd_r=0BFC1685A5F81B90TKF3&pd_rd_wg=OGIvZ&pd_rd_r=a226d4cf-4ce3-4039-af11-283045a72a59&pd_rd_i=B0D4YRLG2W&th=1",
     series: "Chainsaw Man",
     category: "Figure",
@@ -117,7 +117,7 @@ const cards = [
   {
     id: "carnage-deku-figure",
     title: "Carnage Deku Figure",
-    image: "images/carnage deku.jpg",
+    image: "Images/carnage deku.jpg",
     url: "  https://www.amazon.com/TAMASHII-NATIONS-Academia-Overlay-S-H-Figuarts/dp/B0G2N89HR7/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_5/143-7520338-7568222?pd_rd_w=Xg4Fp&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=0HVV8TF0S7PZTFHV5A2F&pd_rd_wg=lJm1I&pd_rd_r=70912f65-959c-4b5d-a7b3-df7e4dac5954&pd_rd_i=B0G2N89HR7&psc=1    ",
     series: "My Hero Academia",
     category: "Figure",
@@ -128,7 +128,7 @@ const cards = [
   {
     id: "Funko Pop Mob",
     title: "Funko Pop Mob Psycho 100",
-    image: "images/mobb.jpg",
+    image: "Images/mobb.jpg",
     url: "https://www.amazon.chttps://www.amazon.com/Funko-Pop-Collectible-Toy-Figure/dp/B0G23LPWTX/ref=sr_1_3?crid=2MZVYWBZ6FYAH&dib=eyJ2IjoiMSJ9.WHlez7eR6eR6rSwXTkWaa3keSvNi1KSV094BdyOfAxrmZcWfx1I_3GEgUmlnRnNCT0Yr7PBPV2905RsXxLIUMTzwF1mAD2LGuPBFJMk86CN6ET0lX7FFJaMN0JsquJTDXXfWhKMn2_OSy9M_rhqV1p4bveLpY2PxOC3_eb2C0MNbduaM889MoXjiKVed8N2kgBTOIEkHUhyBd2dqOpjAyQGyR3RFImvx-oISM_0ET8zZk_aTLfs8FB4WNHYhZXptOqCdHWbVKVmzbz8hUeJjtslrg6AE_iaztpDxTrbEDgc.V2ysVtcMO4iAn3WMPzSEwYhUBh9Si6XhsaCbiLEmATY&dib_tag=se&keywords=mob+psycho+100&qid=1782755632&s=toys-and-games&sprefix=mob+psych%2Ctoys-and-games%2C192&sr=1-3   om/Funko-Pop-Mob-Psycho-100/dp/B08QZJZJZJ",
     series: "Mob Psycho 100",
     category: "Figure",
@@ -139,7 +139,7 @@ const cards = [
   {
     id: "Funko Pop Reigen",
     title: "Funko Pop Reigen",
-    image: "images/reige.jpg",
+    image: "Images/reige.jpg",
     url: "https://www.amazon.com/Funko-Pop-Collectible-Toy-Figure/dp/B0G236M2ZB/ref=sr_1_4?crid=2MZVYWBZ6FYAH&dib=eyJ2IjoiMSJ9.WHlez7eR6eR6rSwXTkWaa3keSvNi1KSV094BdyOfAxrmZcWfx1I_3GEgUmlnRnNCT0Yr7PBPV2905RsXxLIUMTzwF1mAD2LGuPBFJMk86CN6ET0lX7FFJaMN0JsquJTDXXfWhKMn2_OSy9M_rhqV1p4bveLpY2PxOC3_eb2C0MNbduaM889MoXjiKVed8N2kgBTOIEkHUhyBd2dqOpjAyQGyR3RFImvx-oISM_0ET8zZk_aTLfs8FB4WNHYhZXptOqCdHWbVKVmzbz8hUeJjtslrg6AE_iaztpDxTrbEDgc.V2ysVtcMO4iAn3WMPzSEwYhUBh9Si6XhsaCbiLEmATY&dib_tag=se&keywords=mob+psycho+100&qid=1782756336&s=toys-and-games&sprefix=mob+psych%2Ctoys-and-games%2C192&sr=1-4",
     series: "Mob Psycho 100",
     category: "Figure",
@@ -151,7 +151,7 @@ const cards = [
     id: "jjk-boxset",
     idText: "jujutsu kaisen boxset",
     title: "Jujutsu Kaisen Manga Boxset",
-    image: "images/JJk.jpg",
+    image: "Images/JJk.jpg",
     url: "https://www.amazon.com/Jujutsu-Kaisen-Complete-Box-Set/dp/1974769356/ref=sr_1_1?crid=3V0X9Z2Q6Y4G&keywords=jujutsu+kaisen+box+set&qid=1698480000&sprefix=jujutsu+kaisen+box+set%2Caps%2C82&sr=8-1",
     series: "Jujutsu Kaisen",
     category: "Manga",
@@ -162,7 +162,7 @@ const cards = [
     id: "evangelion-manga",
     idText: "evangelion manga",
     title: "Evangelion Manga",
-    image: "images/evangelion,jpg.jpg",
+    image: "Images/evangelion,jpg.jpg",
     url: "https://www.amazon.com/Neon-Genesis-Evangelion-Manga-Set/dp/B09B4DWXLV/ref=sr_1_1?crid=165U59X7KFLNL",
     series: "Evangelion",
     category: "Manga",
@@ -172,7 +172,7 @@ const cards = [
   {
     id: "mob-psycho-vol-9",
     title: "Mob Psycho 100 Vol. 9",
-    image: "images/Mob 9.jpg",
+    image: "Images/Mob 9.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-9/dp/1632366517",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -182,7 +182,7 @@ const cards = [
   {
     id: "mob-psycho-vol-10",
     title: "Mob Psycho 100 Vol. 10",
-    image: "images/Mob 10.jpg",
+    image: "Images/Mob 10.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-10/dp/1632366525",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -192,7 +192,7 @@ const cards = [
   {
     id: "mob-psycho-vol-11",
     title: "Mob Psycho 100 Vol. 11",
-    image: "images/Mob 11.jpg",
+    image: "Images/Mob 11.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-11/dp/1682332447",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -202,7 +202,7 @@ const cards = [
   {
     id: "mob-psycho-vol-12",
     title: "Mob Psycho 100 Vol. 12",
-    image: "images/Mob 12.jpg",
+    image: "Images/Mob 12.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-12/dp/1974720420",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -212,7 +212,7 @@ const cards = [
   {
     id: "mob-psycho-vol-13",
     title: "Mob Psycho 100 Vol. 13",
-    image: "images/Mob 13.jpg",
+    image: "Images/Mob 13.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-13/dp/1682332463",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -222,7 +222,7 @@ const cards = [
   {
     id: "mob-psycho-vol-14",
     title: "Mob Psycho 100 Vol. 14",
-    image: "images/Mob 14.jpg",
+    image: "Images/Mob 14.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-14/dp/1682332471",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -232,7 +232,7 @@ const cards = [
   {
     id: "mob-psycho-vol-15",
     title: "Mob Psycho 100 Vol. 15",
-    image: "images/Mob 15.jpg",
+    image: "Images/Mob 15.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-15/dp/168233248X",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -242,7 +242,7 @@ const cards = [
   {
     id: "mob-psycho-vol-16",
     title: "Mob Psycho 100 Vol. 16",
-    image: "images/Mob 16.jpg",
+    image: "Images/Mob 16.jpg",
     url: "https://www.amazon.com/Mob-Psycho-100-Vol-16/dp/1682332498",
     series: "Mob Psycho 100",
     category: "Manga",
@@ -253,7 +253,7 @@ const cards = [
     id: "my-hero-all-justice-game",
     idText: "my hero all justice game",
     title: "My Hero All Justice Game",
-    image: "images/All justice.jpg",
+    image: "Images/All justice.jpg",
     url: "https://store.steampowered.com/app/2362050/MY_HERO_ACADEMIA_Alls_Justice/",
     series: "My Hero Academia",
     category: "Game",
@@ -264,7 +264,7 @@ const cards = [
     id: "Robux",
     idText: "robux",
     title: "Robux",
-    image: "images/Robux.jpg",
+    image: "Images/Robux.jpg",
     url: "https://www.amazon.com/Robux-Roblox-Online-Game-Code/dp/B07RX6FBFR/ref=sr_1_2?crid=G8K1F49UICR1&dib=eyJ2IjoiMSJ9.d9QbIyuJH59cku6OsMfGbQmsf8C2rI6D470Fy08MxnA635jgCFUdmcLlwb1s5IrvxK-8YgXe88U4in39q1FEILGgfGJ6dlrOZwuDHv_v7XWxUdYmlXqwioPBMNMWRpkPxpXh-LgRyZASVMpYYzli162fTRrPYW2gRQM8udsdvG8.QoFb2p5E7DACUIa19yqmYI3QaaPsi4ARMaULIKs2R34&dib_tag=se&keywords=robux&qid=1782755432&s=toys-and-games&sprefix=robu%2Ctoys-and-games%2C212&sr=1-2&th=1    ",
     series: "Roblox",
     category: "Game",
@@ -295,7 +295,7 @@ const cards = [
   {
     id: "gildan-black-tshirts",
     title: "Gildan Black T-Shirt Multipack",
-    image: "C:\\Users\\Jason\\Downloads\\Jasons' Wishlist-20260628T225352Z-3-001\\Jasons_ Wishlist\\Images\\blk tshirk.jpg",
+    image: "Images/blk tshirk.jpg",
     url: "https://www.amazon.com/Gildan-T-Shirt-Multipack-Black-Large/dp/B07JDFPQTC/ref=sr_1_5?crid=172Q07GACRC6L&dib=eyJ2IjoiMSJ9.hzNKccWrA4A9fLNy0pVPJhbV7doTJwDXyw7F5tznnwBau8R8YA9q1AYm1s4GeESRVTA1W_YP1hUyhvDNpIViRGNiEAmnCL4EylQUZ_QEk4GAL8rK5hR75po2-NjKNruxv2-Yco5zdOlj4r7xC9ricnRykwTsC7cPeeKyMT1R1hk4RcAYoZVqP7BmZbi3W6i0wzGn7EZiU7QZOp9aZKWL577MhCCZTZ6-w59h724V9nPsLyTFVyavaBxCXpPwloIJ62UAIf2F7L99cMkVjeX6aP3cI1dKMmhjgq7jSbRRsiU.N8Fr2N8ASizmFzHKdXuRe_mRRL9PfTmy84XYKcmupRg&dib_tag=se&keywords=plain%2Bblack%2Btshirt%2Bmen&qid=1782757500&sprefix=plain%2Bb%2Caps%2C218&sr=8-5&th=1&psc=1",
     series: "Gildan",
     category: "Clothes",
